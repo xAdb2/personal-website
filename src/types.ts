@@ -71,7 +71,7 @@ export type NavLink = {
   external?: boolean
 }
 
-export type AdmonitionType = 'tip' | 'note' | 'important' | 'caution' | 'flag' | 'flag'
+export type AdmonitionType = 'tip' | 'note' | 'important' | 'caution' | 'warning' | 'flag'
 
 export const themeKeys = [
   'foreground',
