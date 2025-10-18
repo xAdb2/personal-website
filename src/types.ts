@@ -71,7 +71,7 @@ export type NavLink = {
   external?: boolean
 }
 
-export type AdmonitionType = 'tip' | 'note' | 'important' | 'caution' | 'warning'
+export type AdmonitionType = 'tip' | 'note' | 'important' | 'caution' | 'flag' | 'flag'
 
 export const themeKeys = [
   'foreground',
@@ -94,6 +94,7 @@ export const themeKeys = [
   'important',
   'caution',
   'warning',
+  'flag',
   // For Giscus syntax highlighting only
   'comment',
   'constant',

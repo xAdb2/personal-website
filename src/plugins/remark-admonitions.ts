@@ -23,6 +23,7 @@ const Admonitions = new Set<AdmonitionType>([
   'important',
   'caution',
   'warning',
+  'flag',
 ])
 
 /** Checks if a string is a supported admonition type. */

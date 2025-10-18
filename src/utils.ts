@@ -118,6 +118,7 @@ const unresolvedStyles: TextmateStyles = {
   important: ['terminal.ansiMagenta', 'terminal.ansiBrightMagenta'],
   caution: ['terminal.ansiYellow', 'terminal.ansiBrightYellow'],
   warning: ['terminal.ansiRed', 'terminal.ansiBrightRed'],
+  flag: ['terminal.ansiBlue', 'terminal.ansiBrightBlue'],
   // For Giscus syntax highlighting only
   comment: ['comment', 'punctuation.definition.comment', 'foreground'],
   constant: ['constant.language.boolean', 'constant.language', 'foreground'],
