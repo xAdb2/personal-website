@@ -37,14 +37,9 @@ const config: SiteConfig = {
       url: '/about',
     },
     {
-      name: 'Archive',
+      name: 'Posts',
       url: '/posts',
-    },
-    {
-      name: 'GitHub',
-      url: 'https://github.com/xAdb2',
-      external: true,
-    },
+    }
   ],
   // The theming configuration for the site.
   themes: {
