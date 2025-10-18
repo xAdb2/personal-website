@@ -120,6 +120,10 @@ testing123
 testing123
 :::
 
+:::flag
+This is flag{dsasd}.
+:::
+
 ## Character Chats
 
 ```md title="Custom character chat" wrap
