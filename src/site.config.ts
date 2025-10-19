@@ -2,12 +2,11 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://multiterm.stelclementine.com',
+  site: 'https://www.adb2.com',
   // The name of your site, used in the title and for SEO.
-  title: 'MultiTerm',
+  title: "Adb2's website",
   // The description of your site, used for SEO and RSS feed.
-  description:
-    'A coder-ready Astro blog theme with 59 of your favorite color schemes to choose from',
+  description: "Adb2's personal website about CTF",
   // The author of the site, used in the footer, SEO, and RSS feed.
   author: 'Katy Kookaburra',
   // Keywords for SEO, used in the meta tags.
