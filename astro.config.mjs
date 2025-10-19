@@ -32,7 +32,6 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       [remarkDescription, { maxChars: 200 }],
-      remarkReadingTime,
       remarkDirective,
       remarkGithubCard,
       remarkAdmonitions,
