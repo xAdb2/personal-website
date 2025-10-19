@@ -8,7 +8,7 @@ const config: SiteConfig = {
   // The description of your site, used for SEO and RSS feed.
   description: "Adb2's personal website about CTF",
   // The author of the site, used in the footer, SEO, and RSS feed.
-  author: 'Katy Kookaburra',
+  author: 'Adb2',
   // Keywords for SEO, used in the meta tags.
   tags: ['Astro', 'Terminal', 'Theme', 'MultiTerm', 'stelcodes'],
   // Path to the image used for generating social media previews.
