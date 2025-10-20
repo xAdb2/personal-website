@@ -4,10 +4,9 @@ published: 2025-05-26
 draft: false
 tags: ['CTF', 'Writeup']
 toc: true
-coverImage:
-  src: './Not_real_result.png'
-  alt: 'A person with short, thick hair and prescription glasses sits at an organized workstation, using a magnification app to navigate a webpage. Their posture is proper and relaxed. On the desk: a computer, a mouse, a large desk lamp and a small notebook.'
 ---
+
+![image](./Not_real_result.png)
 
 :::important
 最後結算是第 14 名忘記截圖xd，只有留第 10 的時候哈哈。
