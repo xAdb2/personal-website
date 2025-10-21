@@ -38,6 +38,14 @@ const config: SiteConfig = {
     {
       name: 'Posts',
       url: '/posts',
+    },
+    {
+      name: 'Certificates',
+      url: '/certificates',
+    },
+    {
+      name: 'Events',
+      url: '/events',
     }
   ],
   // The theming configuration for the site.
