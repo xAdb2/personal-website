@@ -12,6 +12,8 @@ toc: true
 最後結算是第 14 名忘記截圖xd，只有留第 10 的時候哈哈。
 :::
 
+::github{repo="xAdb2/CTF-source-upload"}
+
 ## Misc
 
 ### Welcome
