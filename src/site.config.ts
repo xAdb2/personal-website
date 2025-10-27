@@ -166,8 +166,8 @@ const config: SiteConfig = {
   giscus: {
     repo: 'xAdb2/personal-website',
     repoId: 'R_kgDOQC9Nmw',
-    category: 'Announcements',
-    categoryId: 'DIC_kwDOQC9Nm84CxI2B',
+    category: 'General',
+    categoryId: 'DIC_kwDOQC9Nm84CxI2C',
     reactionsEnabled: true, // Enable reactions on post itself
   },
   // These are characters available for the character chat feature.
