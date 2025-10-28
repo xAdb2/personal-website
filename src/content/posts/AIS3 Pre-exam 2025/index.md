@@ -12,8 +12,6 @@ toc: true
 最後結算是第 14 名忘記截圖xd，只有留第 10 的時候哈哈。
 :::
 
-::github{repo="xAdb2/CTF-source-upload"}
-
 ## Misc
 
 ### Welcome
@@ -805,3 +803,5 @@ AIS3{UniCorn_2.1.3_fk_s1ow_BUT_this_chal_cool?}
 :::
 
 >這題蠻有趣的
+
+::github{repo="xAdb2/CTF-source-upload"}
